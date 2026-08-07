@@ -1,2 +1,2 @@
 # Favour-Cybersecurity-Portfolio
-Practical cybersecurity labs, investigations, security analysis projects, and automation
+Practical cybersecurity labs, investigations, security analysis projects, and process automation
