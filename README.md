@@ -57,7 +57,7 @@ are completed throughout this 84-day cybersecurity roadmap.
 ### 84-Day Cybersecurity Roadmap
 
 - ✅ Day 1 — Portfolio & GitHub Foundations
-- [x] Day 2 — Home Lab Architecture
+- ✅ Day 2 — Home Lab Architecture
 - ⬜ Day 3 — Windows VM Setup
 - ⬜ Day 4 — Windows Event Viewer
 - ⬜ Day 5 — Windows Security Event IDs
