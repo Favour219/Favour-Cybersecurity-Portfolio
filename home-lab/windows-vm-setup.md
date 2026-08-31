@@ -38,7 +38,15 @@ Evidence:
 
 ### Windows Firewall
 
-Status: Pending Verification
+Status: Enabled
+
+Evidence:
+- Domain network firewall enabled
+- Private network firewall enabled
+- Public network firewall enabled
+
+Purpose:
+Provides host-based network protection and generates useful security events for monitoring and investigations.
 
 ### Windows Updates
 
