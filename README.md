@@ -58,7 +58,7 @@ are completed throughout this 84-day cybersecurity roadmap.
 
 - ✅ Day 1 — Portfolio & GitHub Foundations
 - ✅ Day 2 — Home Lab Architecture
-- ⬜ Day 3 — Windows VM Setup
+- ✅ Day 3 — Windows VM Setup
 - ⬜ Day 4 — Windows Event Viewer
 - ⬜ Day 5 — Windows Security Event IDs
 - ⬜ Day 6 — Sysmon Installation & Configuration
