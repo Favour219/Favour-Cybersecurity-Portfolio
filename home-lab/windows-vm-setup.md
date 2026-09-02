@@ -54,10 +54,14 @@ Status: Pending
 
 ## Snapshot
 
-Status: Pending
+Name: Clean-Windows-Baseline
 
-Snapshot Name:
-Clean-Windows-Baseline
+Purpose:
+Provides a clean restore point before installing security monitoring tools such as Sysmon, Splunk Universal Forwarder, and Wazuh Agent.
+
+## Outcome
+
+Successfully deployed a Windows 10 virtual machine and established a secure baseline configuration for future SOC analyst investigations.
 
 ## Lessons Learned
 
