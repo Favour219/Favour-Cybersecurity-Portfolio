@@ -54,14 +54,23 @@ Status: Pending
 
 ## Snapshot
 
-Name: Clean-Windows-Baseline
+Name: Clean Windows Baseline
 
 Purpose:
-Provides a clean restore point before installing security monitoring tools such as Sysmon, Splunk Universal Forwarder, and Wazuh Agent.
+Provides a clean restore point before installing security monitoring and logging tools.
+
+Description:
+Windows 10 installed and configured.
+Administrator account verified.
+Standard user account created.
+Microsoft Defender verified.
+Windows Firewall verified.
+Internet connectivity established.
+Windows Update configured.
 
 ## Outcome
 
-Successfully deployed a Windows 10 virtual machine and established a secure baseline configuration for future SOC analyst investigations.
+Successfully deployed and configured a Windows 10 virtual machine for SOC analyst training and future security monitoring exercises.
 
 ## Lessons Learned
 
