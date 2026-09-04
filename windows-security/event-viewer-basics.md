@@ -59,6 +59,19 @@ The process responsible for the logon was services.exe, which is used by Windows
 
 The activity appears legitimate because SYSTEM is a trusted Windows account and service logons are common during normal operating system operations.
 
+## Observation
+
+When logged in as the standard user account (labuser), Event Viewer was unable to access the Windows Security log.
+
+Error:
+"Access is denied (5)"
+
+Analysis:
+Access to Security logs requires elevated privileges. Standard user accounts have restricted access to sensitive security information.
+
+Security Relevance:
+Limiting Security log access helps protect audit information from unauthorized users.
+
 #### Conclusion
 
 No suspicious activity was identified. The event appears to be normal Windows service activity.
